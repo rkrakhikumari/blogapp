@@ -34,7 +34,7 @@ SECRET_KEY = 'django-insecure-qno!$c_=lkzgka^l+67b+nt%ay5=^&@d*^w%ojog%n59^p!^d)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://blogapp-3-yze5.onrender.com"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
